@@ -1,0 +1,9 @@
+SETTING UP DEVELOPMENT AND ENVIRONMENT
+-   npm init
+-   npm install express
+-   setting up a basic server that code does few things like
+    1. imports the express module
+    2. creates an express application
+    3. Sets up a basic route (/) tha sends 'hello world!' when accessed
+    4. tells the application to listen o port 3000
+-   to start the server run node server.js in the terminal
