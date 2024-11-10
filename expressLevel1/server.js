@@ -23,4 +23,3 @@ app.get('api', function(req,res){
 
 app.listen(PORT , ()=> console.log (`server is running on ${PORT}`))
 
-// this is a practice project to help me keep in track of the flow controll of this.
